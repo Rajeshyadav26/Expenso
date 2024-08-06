@@ -1,2 +1,0 @@
-# Expenso
-For Expense Manager
